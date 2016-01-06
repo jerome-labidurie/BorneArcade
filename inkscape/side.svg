@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="arcade.svg">
+   sodipodi:docname="side.svg"
+   inkscape:export-filename="/home/jjl/sources/github/BorneArcade/inkscape/side.svg.png"
+   inkscape:export-xdpi="40.25"
+   inkscape:export-ydpi="40.25">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30385742"
-     inkscape:cx="891.47321"
-     inkscape:cy="1009.2987"
+     inkscape:zoom="0.25934706"
+     inkscape:cx="791.09725"
+     inkscape:cy="1020.3002"
      inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -70,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
