@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84493736"
-     inkscape:cx="496.69574"
-     inkscape:cy="389.63722"
+     inkscape:zoom="1.0198845"
+     inkscape:cx="574.96082"
+     inkscape:cy="384.99237"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -532,167 +532,53 @@
            y="848.06201">R</tspan></text>
     </g>
     <g
-       id="g4471"
-       transform="translate(110.04692,25.120672)">
-      <circle
-         r="30.771511"
-         cy="525.69592"
-         cx="394.11206"
-         id="circle4473"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4475"
-         cx="394.11206"
-         cy="525.69592"
-         r="23.658075" />
-    </g>
-    <g
-       id="g4657"
-       transform="translate(16.326999,25.847927)">
-      <circle
-         r="4.0797648"
-         cy="514.19287"
-         cx="487.86896"
-         id="path4641"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="519.48218"
-         x="484.41684"
-         height="12.343904"
-         width="6.9042172"
-         id="rect4643"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       id="g5086"
+       transform="translate(-12.479768,-95.387998)">
       <g
-         transform="translate(0.22185403,0)"
-         id="g4651">
-        <rect
-           style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4645"
-           width="1.4793996"
-           height="6.6572981"
-           x="485.02115"
-           y="533.16693" />
-        <rect
-           y="533.16693"
-           x="488.79364"
-           height="6.6572981"
-           width="1.4793996"
-           id="rect4647"
-           style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4649"
-         width="1.4793996"
-         height="6.6572981"
-         x="481.6185"
-         y="521.03583" />
-      <rect
-         y="521.03583"
-         x="492.56607"
-         height="6.6572981"
-         width="1.4793996"
-         id="rect4655"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="translate(183.72102,25.120672)"
-       id="g4666">
-      <circle
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4668"
-         cx="394.11206"
-         cy="525.69592"
-         r="30.771511" />
-      <circle
-         r="23.658075"
-         cy="525.69592"
-         cx="394.11206"
-         id="circle4670"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g4704"
-       transform="translate(16.548906,25.847927)">
-      <g
-         transform="translate(81.366979,0)"
-         id="g4672">
+         transform="translate(1.2110655,25.120672)"
+         id="g4471">
         <circle
-           r="4.0797648"
-           cy="514.19287"
-           cx="487.86896"
-           id="circle4674"
-           style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           y="519.48218"
-           x="484.41684"
-           height="12.343904"
-           width="6.9042172"
-           id="rect4676"
-           style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <g
-           transform="translate(0.22185403,0)"
-           id="g4678">
-          <rect
-             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect4680"
-             width="1.4793996"
-             height="6.6572981"
-             x="485.02115"
-             y="533.16693" />
-          <rect
-             y="533.16693"
-             x="488.79364"
-             height="6.6572981"
-             width="1.4793996"
-             id="rect4682"
-             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        </g>
-        <rect
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4684"
-           width="1.4793996"
-           height="6.6572981"
-           x="481.6185"
-           y="521.03583" />
-        <rect
-           y="521.03583"
-           x="492.56607"
-           height="6.6572981"
-           width="1.4793996"
-           id="rect4686"
+           id="circle4473"
+           cx="394.11206"
+           cy="525.69592"
+           r="30.771511" />
+        <circle
+           r="23.658075"
+           cy="525.69592"
+           cx="394.11206"
+           id="circle4475"
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
       <g
-         id="g4688"
-         transform="translate(65.537403,0)">
+         transform="translate(-92.508855,25.847927)"
+         id="g4657">
         <circle
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="circle4690"
+           id="path4641"
            cx="487.86896"
            cy="514.19287"
            r="4.0797648" />
         <rect
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4692"
+           id="rect4643"
            width="6.9042172"
            height="12.343904"
            x="484.41684"
            y="519.48218" />
         <g
-           id="g4694"
+           id="g4651"
            transform="translate(0.22185403,0)">
           <rect
              y="533.16693"
              x="485.02115"
              height="6.6572981"
              width="1.4793996"
-             id="rect4696"
+             id="rect4645"
              style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <rect
              style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             id="rect4698"
+             id="rect4647"
              width="1.4793996"
              height="6.6572981"
              x="488.79364"
@@ -703,41 +589,136 @@
            x="481.6185"
            height="6.6572981"
            width="1.4793996"
-           id="rect4700"
+           id="rect4649"
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4702"
+           id="rect4655"
            width="1.4793996"
            height="6.6572981"
            x="492.56607"
            y="521.03583" />
       </g>
     </g>
+    <g
+       id="g4704"
+       transform="translate(97.500725,-16.592899)">
+      <g
+         id="g5126"
+         transform="translate(0,-52.947172)">
+        <g
+           id="g4672"
+           transform="translate(81.366979,0)">
+          <circle
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle4674"
+             cx="487.86896"
+             cy="514.19287"
+             r="4.0797648" />
+          <rect
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect4676"
+             width="6.9042172"
+             height="12.343904"
+             x="484.41684"
+             y="519.48218" />
+          <g
+             id="g4678"
+             transform="translate(0.22185403,0)">
+            <rect
+               y="533.16693"
+               x="485.02115"
+               height="6.6572981"
+               width="1.4793996"
+               id="rect4680"
+               style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <rect
+               style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect4682"
+               width="1.4793996"
+               height="6.6572981"
+               x="488.79364"
+               y="533.16693" />
+          </g>
+          <rect
+             y="521.03583"
+             x="481.6185"
+             height="6.6572981"
+             width="1.4793996"
+             id="rect4684"
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect4686"
+             width="1.4793996"
+             height="6.6572981"
+             x="492.56607"
+             y="521.03583" />
+        </g>
+        <g
+           transform="translate(65.537403,0)"
+           id="g4688">
+          <circle
+             r="4.0797648"
+             cy="514.19287"
+             cx="487.86896"
+             id="circle4690"
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <rect
+             y="519.48218"
+             x="484.41684"
+             height="12.343904"
+             width="6.9042172"
+             id="rect4692"
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <g
+             transform="translate(0.22185403,0)"
+             id="g4694">
+            <rect
+               style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect4696"
+               width="1.4793996"
+               height="6.6572981"
+               x="485.02115"
+               y="533.16693" />
+            <rect
+               y="533.16693"
+               x="488.79364"
+               height="6.6572981"
+               width="1.4793996"
+               id="rect4698"
+               style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          </g>
+          <rect
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect4700"
+             width="1.4793996"
+             height="6.6572981"
+             x="481.6185"
+             y="521.03583" />
+          <rect
+             y="521.03583"
+             x="492.56607"
+             height="6.6572981"
+             width="1.4793996"
+             id="rect4702"
+             style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="418.46201"
-       y="510.06735"
+       x="354.50156"
+       y="416.94412"
        id="text4722"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4724"
-         x="418.46201"
-         y="510.06735">P1 start</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4726"
-       y="510.06735"
-       x="573.28387"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="510.06735"
-         x="573.28387"
-         id="tspan4728"
-         sodipodi:role="line">P2 start</tspan></text>
+         x="354.50156"
+         y="416.94412">start</tspan></text>
     <g
-       transform="translate(439.83929,-83.137774)"
+       transform="translate(67.51485,-70.267326)"
        id="g4730">
       <circle
          style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -752,44 +733,17 @@
          id="circle4734"
          style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <g
-       id="g4736"
-       transform="translate(513.51339,-83.137774)">
-      <circle
-         r="30.771511"
-         cy="525.69592"
-         cx="394.11206"
-         id="circle4738"
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <circle
-         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle4740"
-         cx="394.11206"
-         cy="525.69592"
-         r="23.658075" />
-    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="871.59613"
-       y="501.28015"
-       id="text4742"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4744"
-         x="871.59613"
-         y="501.28015">select</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="813.06854"
-       y="500.44327"
+       x="425.59763"
+       y="417.63553"
        id="text4746"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4748"
-         x="813.06854"
-         y="500.44327">Esc</tspan></text>
+         x="425.59763"
+         y="417.63553">select</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -823,5 +777,59 @@
          x="751.32971"
          id="tspan4760"
          sodipodi:role="line">P2</tspan></text>
+    <g
+       transform="translate(264.67284,-70.267326)"
+       id="g5146">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5148"
+         cx="394.11206"
+         cy="525.69592"
+         r="30.771511" />
+      <circle
+         r="23.658075"
+         cy="525.69592"
+         cx="394.11206"
+         id="circle5150"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5168"
+       y="416.94412"
+       x="630.44312"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="416.94412"
+         x="630.44312"
+         id="tspan5170"
+         sodipodi:role="line">start</tspan></text>
+    <g
+       id="g5172"
+       transform="translate(343.45639,-70.267326)">
+      <circle
+         r="30.771511"
+         cy="525.69592"
+         cx="394.11206"
+         id="circle5174"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#ff0404;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5176"
+         cx="394.11206"
+         cy="525.69592"
+         r="23.658075" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5178"
+       y="417.63553"
+       x="701.53918"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="417.63553"
+         x="701.53918"
+         id="tspan5180"
+         sodipodi:role="line">select</tspan></text>
   </g>
 </svg>
